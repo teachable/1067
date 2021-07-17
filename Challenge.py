@@ -6,7 +6,7 @@ num2 = input('Enter second number: ')
 
 sum=0 
 # Uncomment the following code
-//Dj 
+//Dj 45
 sum = float(num1) + float(num2)
  
 # Display the sum
